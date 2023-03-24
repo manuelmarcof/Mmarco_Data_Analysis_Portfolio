@@ -10,7 +10,7 @@ My CV in [pdf](https://github.com/manuelmarcof/Mmarco_Data_Analysis_Portfolio/bl
 This repository serves as a showcase of my skills, a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.  
 <br>
   
-
+<!-- 
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
@@ -133,9 +133,9 @@ This 3 month course is an in-depth introduction to predictive modeling with scik
 
 ### Tableau Vizzes
 **Description:** My Tableau Public account ---> [go to Tableau..](https://public.tableau.com/profile/nktn.lx#!/)  
-**Status:** ∞  
+**Status:** ∞   -->
 
-## Certificates
+<!-- ## Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
 - [A/B Testing](https://drive.google.com/file/d/15eC0plclsU2f3WFzQ7_cVvc-mA8M3h1Z/view?usp=share_link) (Feb 2023) (Udacity - Google)
 - [Teamlead 101](https://drive.google.com/file/d/1-12jUVj8OcLlTQ3147syWIP4nf9a2n9P/view?usp=sharing) (Jul 2022) (Stratoplan Management School)
@@ -159,8 +159,8 @@ I believe that the best way to showcase skills is by doing and sharing your job 
 - [Learning How to Learn](https://coursera.org/share/5e7320a42bee969f6e9e6325559e7215) (Feb 2018) (Coursera - University of California San Diego)
 - [Fundamentals of Project Planning and Management](https://coursera.org/share/e90fb632268a6c233b6e229c7d068e8f) (Oct 2015) (Coursera - University of Virginia)
 - [Introduction to Linux](https://stepik.org/cert/4441) (Dec 2014) (Stepik - Bioinformatics Institute)
-- [IELTS Academic](https://drive.google.com/file/d/1bB3bBUtCeHttCQQHdLP6Om45dFgDyXYw/view?usp=sharing) (Overall Band Score 7.0 - Proficient English User (C1)) (Apr 2014)
+- [IELTS Academic](https://drive.google.com/file/d/1bB3bBUtCeHttCQQHdLP6Om45dFgDyXYw/view?usp=sharing) (Overall Band Score 7.0 - Proficient English User (C1)) (Apr 2014) -->
 
 ## Contacts
-- LinkedIn: [manuelmarcofer]([https://www.linkedin.com/in/nktnlx](https://www.linkedin.com/in/manuelmarcofer/))
+- LinkedIn: [@manuelmarcofer](https://www.linkedin.com/in/manuelmarcofer)
 - E-mail: manuelmarcofer@gmail.com
