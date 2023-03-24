@@ -162,5 +162,5 @@ I believe that the best way to showcase skills is by doing and sharing your job 
 - [IELTS Academic](https://drive.google.com/file/d/1bB3bBUtCeHttCQQHdLP6Om45dFgDyXYw/view?usp=sharing) (Overall Band Score 7.0 - Proficient English User (C1)) (Apr 2014)
 
 ## Contacts
-- LinkedIn: [@manuelmarcofer]([https://www.linkedin.com/in/nktnlx](https://www.linkedin.com/in/manuelmarcofer/))
+- LinkedIn: [manuelmarcofer]([https://www.linkedin.com/in/nktnlx](https://www.linkedin.com/in/manuelmarcofer/))
 - E-mail: manuelmarcofer@gmail.com
